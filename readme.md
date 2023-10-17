@@ -26,5 +26,5 @@ Siga os passos abaixo para instalar e executar os testes:
 
 ## RELATÓRIO DE TESTES
 
-Apos a execução dos testes de automação, você pode acessar o relatório gerado com informações sobre testes bem sucedidos, falhas e estatísticas.
+Após a execução dos testes de automação, você pode acessar o relatório gerado com informações sobre testes bem sucedidos, falhas e estatísticas.
 Para acessar o relatório navegue até a pasta target na raiz do projeto local do seu computador.
