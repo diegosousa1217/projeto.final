@@ -12,7 +12,7 @@ Utilizamos as tecnologias:
 
 ## ANTES DE EXECUTAR OS TESTE, É NECESSÁRIO CONFIGURAR O AMBIENTE DE DESENVOLVIMENTO. 
 
-Certifique-se de ter as seguintes ferramentas instalads:
+Certifique-se de ter as seguintes ferramentas instaladas:
 
 - Java (JDK);
 - Maven;
