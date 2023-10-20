@@ -10,7 +10,9 @@ Utilizamos as tecnologias:
 - Padrão Page Objcts: Para organizar e Estruturar os elementos da interface do usuário em paginas.
 - Junit: Para realizar as validações dos Testes.
 
-## ANTES DE EXECUTAR OS TESTE, É NECESSÁRIO CONFIGURAR O AMBIENTE DE DESENVOLVIMENTO. CERTIFIQUE-SE DE TER AS SEGUINTES FERRAMENTAS INSTALADAS:
+## ANTES DE EXECUTAR OS TESTE, É NECESSÁRIO CONFIGURAR O AMBIENTE DE DESENVOLVIMENTO. 
+
+Certifique-se de ter as seguintes ferramentas instalads:
 
 - Java (JDK);
 - Maven;
